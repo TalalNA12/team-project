@@ -1,1 +1,1 @@
-"print('Version from Branch A')" 
+print("Issues resolved from both branches A and B")
