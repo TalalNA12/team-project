@@ -1,4 +1,5 @@
 def greet_user(name):
+    """Return an uppercase greeting for the given name."""
     return f"HEY, {name}!"
 
 if __name__ == "__main__":
